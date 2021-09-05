@@ -8,7 +8,7 @@ Pic::Pic(Memory* mem){
     for(int i=0; i<16; i++){
         this->irq_list[i] = false;
     }
-    this->fifo = new Fifo();
+    this->fifo = new Fifo<unsigned int, unsigned char>();
 }
 
 void Pic::ShowSelf(){

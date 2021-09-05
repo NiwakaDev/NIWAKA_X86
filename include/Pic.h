@@ -1,6 +1,7 @@
 #pragma once
 #include "common.h"
 #include "Device.h"
+#include "Fifo.h"
 
 #define PIC0_ICW1		0x0020
 #define PIC0_OCW2		0x0020
@@ -16,7 +17,6 @@
 #define PIC1_ICW4		0x00a1
 
 class Memory;
-class Fifo;
 
 class Pic:public Device{
     public:
@@ -31,6 +31,6 @@ class Pic:public Device{
     private:
         bool irq_list[16];//割り込み許可
         Memory* mem;
-        Fifo* fifo;
+        Fifo<unsigned int, unsigned char>* fifo;
         int now_irq;
 };
