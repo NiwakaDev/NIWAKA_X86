@@ -1,4 +1,4 @@
-![スクリーンショット 2021-09-05 11 32 16](https://user-images.githubusercontent.com/61189782/132112958-f48e50b1-8835-443f-9322-2ca8a4ad8179.png)
+![r0nna-aqshy](https://user-images.githubusercontent.com/61189782/132125471-a12e120f-0ef6-4d49-9e70-e03e6d01b375.gif)
 
 # NIWAKA_X86
 C++で書かれたX86_EMULATOR
