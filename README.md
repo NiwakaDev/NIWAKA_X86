@@ -1,6 +1,6 @@
 ![r0nna-aqshy](https://user-images.githubusercontent.com/61189782/132125471-a12e120f-0ef6-4d49-9e70-e03e6d01b375.gif)
 
-2代目X86エミュレータをprivateで作成中。29日目の前半まで進めた。
+<p><strong>2代目X86エミュレータをprivateで作成中。29日目の前半まで進めた。</strong></p>
 
 # NIWAKA_X86
 x86_emulator written in C++11
