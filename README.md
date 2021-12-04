@@ -1,5 +1,7 @@
 ![r0nna-aqshy](https://user-images.githubusercontent.com/61189782/132125471-a12e120f-0ef6-4d49-9e70-e03e6d01b375.gif)
 
+<p>初代x86エミュレータです。ここはもう閉じました。今はこちらで作業しています。->  https://github.com/NiwakaDev/X86_EMULATOR_2</p>
+
 <p><strong>2代目X86エミュレータをprivateで作成中。29日目の前半まで進めた。</strong></p>
 
 # NIWAKA_X86
