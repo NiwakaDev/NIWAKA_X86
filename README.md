@@ -2,6 +2,8 @@
 
 <p>初代x86エミュレータです。ここはもう閉じました。今はこちらで作業しています。->  https://github.com/NiwakaDev/X86_EMULATOR_2</p>
 
+<p>ここは閉じてます。</p>
+
 # NIWAKA_X86
 x86_emulator written in C++11
 
